@@ -1,9 +1,107 @@
-<h1 align="center">Hi 👋, I'm Abhinav Pardhu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm N. Abhinav Pardhu</h1>
+<h3 align="center">Computer Science Engineering (AI & ML) Student | Django Backend Developer | Machine Learning Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.E. in Computer Science Engineering (AI & ML) at **Vasavi College of Engineering**
+- 📍 Hyderabad, Telangana, India
+- 💻 Passionate about **Backend Development**, **Machine Learning**, and **System Design**
+- 🌱 Currently building a **Mini Load Balancer using Django**
+- 🚀 Exploring **Distributed Systems**, **Docker**, and **Cloud Technologies**
+- 🤝 Open to collaborating on **Backend** and **AI/ML** projects
+
+---
+
+## 🚀 Featured Projects
+
+### ⚖️ Mini Load Balancer
+
+A lightweight load balancer built using Django to understand request routing, backend server management, and distributed system fundamentals.
+
+🔗 **Repository:** https://github.com/Abhinavpardhu/Load_Balancer
+
+[![Load Balancer](https://github-readme-stats.vercel.app/api/pin/?username=Abhinavpardhu&repo=Load_Balancer&theme=tokyonight)](https://github.com/Abhinavpardhu/Load_Balancer)
+
+---
+
+### 📖 Personal Diary
+
+A secure digital diary application with authentication, authorization, and CRUD operations.
+
+🔗 **Repository:** https://github.com/Abhinavpardhu/Diary
+
+[![Diary](https://github-readme-stats.vercel.app/api/pin/?username=Abhinavpardhu&repo=Diary&theme=tokyonight)](https://github.com/Abhinavpardhu/Diary)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Backend & Web
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinavpardhu&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavpardhu&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhinavpardhu&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Distributed Systems
+- Load Balancing
+- Machine Learning
+- Docker
+- Kubernetes
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: **Your LinkedIn**
+- 💻 GitHub: https://github.com/Abhinavpardhu
+- 📧 Email: **Your Email**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinavpardhu&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<h3 align="center">Building scalable backend systems and AI-powered applications 🚀</h3>
