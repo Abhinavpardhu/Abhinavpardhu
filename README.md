@@ -96,7 +96,7 @@ A secure digital diary application with authentication, authorization, and CRUD 
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/abhinav-pardhu-114734252/**
 - 💻 GitHub: https://github.com/Abhinavpardhu
-- 📧 Email: **Your Email**
+- 📧 Email: **pardhunagunuri@gmail.com**
 
 ---
 
