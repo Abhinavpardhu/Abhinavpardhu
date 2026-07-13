@@ -12,21 +12,25 @@
 - 🎓 B.E. in Computer Science Engineering (AI & ML) at **Vasavi College of Engineering**
 - 📍 Hyderabad, Telangana, India
 - 💻 Passionate about **Backend Development**, **Machine Learning**, and **System Design**
-- 🌱 Currently building a **Mini Load Balancer using Django**
-- 🚀 Exploring **Distributed Systems**, **Docker**, and **Cloud Technologies**
+- 🌱 Currently building scalable backend applications with **Django**
+- 🚀 Exploring **Distributed Systems**, **Docker**, **Kubernetes**, and **Cloud Technologies**
 - 🤝 Open to collaborating on **Backend** and **AI/ML** projects
 
 ---
 
 ## 🚀 Featured Projects
+
 ### 🔗 URL Shortener
 
 A lightweight URL Shortener built using Django to generate unique short links, manage URL mappings, and redirect users to the original destination while exploring web application development and backend fundamentals.
 
+🌐 **Live Demo:** https://pottiurl.pythonanywhere.com/
+
 🔗 **Repository:** https://github.com/Abhinavpardhu/url_shortner
 
 [![Visit Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit-blue?style=for-the-badge)](https://pottiurl.pythonanywhere.com/)
-<img width="1465" height="737" alt="Screenshot 2026-07-13 235929" src="https://github.com/user-attachments/assets/d8dd1841-d948-498b-8df8-880c495ab752" />
+
+<img width="1465" height="737" alt="URL Shortener Screenshot" src="https://github.com/user-attachments/assets/d8dd1841-d948-498b-8df8-880c495ab752" />
 
 [![URL Shortener](https://github-readme-stats.vercel.app/api/pin/?username=Abhinavpardhu&repo=url_shortner&theme=tokyonight)](https://github.com/Abhinavpardhu/url_shortner)
 
@@ -41,6 +45,7 @@ A lightweight load balancer built using Django to understand request routing, ba
 [![Load Balancer](https://github-readme-stats.vercel.app/api/pin/?username=Abhinavpardhu&repo=Load_Balancer&theme=tokyonight)](https://github.com/Abhinavpardhu/Load_Balancer)
 
 ---
+
 ### 🍽️ Ruchi Vindu
 
 A full-stack restaurant web application built using Django to provide a seamless food ordering experience with menu browsing, user authentication, order management, and a clean, responsive user interface.
@@ -51,7 +56,7 @@ A full-stack restaurant web application built using Django to provide a seamless
 
 ### 📖 Personal Diary
 
-A secure digital diary application with authentication, authorization, and CRUD operations.
+A secure digital diary application built with Django featuring authentication, authorization, and full CRUD functionality for managing personal diary entries.
 
 🔗 **Repository:** https://github.com/Abhinavpardhu/Diary
 
@@ -61,29 +66,34 @@ A secure digital diary application with authentication, authorization, and CRUD 
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Backend & Web
+### 🌐 Backend & Web
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Django Unicorn](https://img.shields.io/badge/Django_Unicorn-6F42C1?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### Machine Learning
+### 🤖 Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-### Tools
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -113,9 +123,9 @@ A secure digital diary application with authentication, authorization, and CRUD 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **https://www.linkedin.com/in/abhinav-pardhu-114734252/**
+- 💼 LinkedIn: https://www.linkedin.com/in/abhinav-pardhu-114734252/
 - 💻 GitHub: https://github.com/Abhinavpardhu
-- 📧 Email: **pardhunagunuri@gmail.com**
+- 📧 Email: pardhunagunuri@gmail.com
 
 ---
 
