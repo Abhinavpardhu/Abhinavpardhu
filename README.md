@@ -26,6 +26,7 @@ A lightweight URL Shortener built using Django to generate unique short links, m
 🔗 **Repository:** https://github.com/Abhinavpardhu/url_shortner
 
 [![Visit Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit-blue?style=for-the-badge)](https://pottiurl.pythonanywhere.com/)
+<img width="1465" height="737" alt="Screenshot 2026-07-13 235929" src="https://github.com/user-attachments/assets/d8dd1841-d948-498b-8df8-880c495ab752" />
 
 [![URL Shortener](https://github-readme-stats.vercel.app/api/pin/?username=Abhinavpardhu&repo=url_shortner&theme=tokyonight)](https://github.com/Abhinavpardhu/url_shortner)
 
