@@ -23,8 +23,6 @@
 
 A lightweight URL Shortener built using Django to generate unique short links, manage URL mappings, and redirect users to the original destination while exploring web application development and backend fundamentals.
 
-🌐 **Live Demo:** https://pottiurl.pythonanywhere.com/
-
 🔗 **Repository:** https://github.com/Abhinavpardhu/url_shortner
 
 [![Visit Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit-blue?style=for-the-badge)](https://pottiurl.pythonanywhere.com/)
