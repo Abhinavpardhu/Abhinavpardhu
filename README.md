@@ -40,6 +40,13 @@ A lightweight load balancer built using Django to understand request routing, ba
 [![Load Balancer](https://github-readme-stats.vercel.app/api/pin/?username=Abhinavpardhu&repo=Load_Balancer&theme=tokyonight)](https://github.com/Abhinavpardhu/Load_Balancer)
 
 ---
+### 🍽️ Ruchi Vindu
+
+A full-stack restaurant web application built using Django to provide a seamless food ordering experience with menu browsing, user authentication, order management, and a clean, responsive user interface.
+
+🔗 **Repository:** https://github.com/Abhinavpardhu/ruchi-vindu
+
+---
 
 ### 📖 Personal Diary
 
